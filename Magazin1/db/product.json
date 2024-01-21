@@ -1,0 +1,32 @@
+[
+    {
+        "ID": 1,
+        "CategoryID": 0,
+        "ProductType": "pistalet",
+        "Quantity": 1,
+        "Price": 1500,
+        "CreatedAt": "2024-01-20T21:49:33.1183264+05:00",
+        "UpdatedAt": "2024-01-20T21:49:33.1183264+05:00",
+        "Products": null
+    },
+    {
+        "ID": 2,
+        "CategoryID": 0,
+        "ProductType": "olma",
+        "Quantity": 8,
+        "Price": 200,
+        "CreatedAt": "2024-01-20T21:49:51.2711144+05:00",
+        "UpdatedAt": "2024-01-20T21:49:51.2711144+05:00",
+        "Products": null
+    },
+    {
+        "ID": 3,
+        "CategoryID": 0,
+        "ProductType": "fudbolka",
+        "Quantity": 2,
+        "Price": 300,
+        "CreatedAt": "2024-01-20T21:50:26.5429057+05:00",
+        "UpdatedAt": "2024-01-20T21:50:26.5429057+05:00",
+        "Products": null
+    }
+]
